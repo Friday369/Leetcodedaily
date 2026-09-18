@@ -5,9 +5,10 @@ class Solution(object):
         :type target: int
         :rtype: List[int]
         """
+        s={}
         for i in range(len(nums)):
-            for j in range(i+1,len(nums)):
-                if nums[i]+nums[j]==target:
-                    return[i,j]
-        return[]
-        
+            complement=target-nums[i]
+            if complement in s:
+               return[s[complement],i]
+            s[nums[i]]=i
+        return []
