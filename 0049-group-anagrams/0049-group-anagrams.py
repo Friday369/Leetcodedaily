@@ -3,13 +3,15 @@ class Solution(object):
         """
         :type strs: List[str]
         :rtype: List[List[str]]
-    
         """
         anagrams={}
         for word in strs:
-            sorted_words="".join(sorted(word))
-            if sorted_words in anagrams:
-                anagrams[sorted_words].append(word)
+            counts=[0]*26
+            for char in word:
+                counts[ord(char)-ord('a')]+=1
+            key=tuple(counts)
+            if key not in anagrams:
+                anagrams[key]=[word]
             else:
-                anagrams[sorted_words]=[word]
-        return list(anagrams.values())
+                anagrams[key].append(word)
+        return list(anagrams.values())        
