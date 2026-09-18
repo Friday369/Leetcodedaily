@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Friday369/Leetcodedaily/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/Friday369/Leetcodedaily/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Friday369/Leetcodedaily/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Friday369/Leetcodedaily/tree/master/0242-valid-anagram) |
 ## String
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Friday369/Leetcodedaily/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Friday369/Leetcodedaily/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/Friday369/Leetcodedaily/tree/master/0049-group-anagrams) |
+| [0242-valid-anagram](https://github.com/Friday369/Leetcodedaily/tree/master/0242-valid-anagram) |
 ## Sliding Window
 |  |
 | ------- |
@@ -85,4 +87,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/Friday369/Leetcodedaily/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Friday369/Leetcodedaily/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Friday369/Leetcodedaily/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
