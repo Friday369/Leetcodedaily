@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Friday369/Leetcodedaily/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Friday369/Leetcodedaily/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Friday369/Leetcodedaily/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/Friday369/Leetcodedaily/tree/master/0349-intersection-of-two-arrays) |
 ## String
 |  |
 | ------- |
@@ -58,10 +59,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Friday369/Leetcodedaily/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/Friday369/Leetcodedaily/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/Friday369/Leetcodedaily/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/Friday369/Leetcodedaily/tree/master/0349-intersection-of-two-arrays) |
 ## Binary Search
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Friday369/Leetcodedaily/tree/master/0004-median-of-two-sorted-arrays) |
+| [0349-intersection-of-two-arrays](https://github.com/Friday369/Leetcodedaily/tree/master/0349-intersection-of-two-arrays) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -72,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Friday369/Leetcodedaily/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Friday369/Leetcodedaily/tree/master/0011-container-with-most-water) |
+| [0349-intersection-of-two-arrays](https://github.com/Friday369/Leetcodedaily/tree/master/0349-intersection-of-two-arrays) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -96,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Friday369/Leetcodedaily/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Friday369/Leetcodedaily/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Friday369/Leetcodedaily/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/Friday369/Leetcodedaily/tree/master/0349-intersection-of-two-arrays) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
