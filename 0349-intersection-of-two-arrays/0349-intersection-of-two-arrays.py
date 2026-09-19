@@ -5,14 +5,10 @@ class Solution(object):
         :type nums2: List[int]
         :rtype: List[int]
         """
-        nums3=[]
-        for i in nums1:
-            for j in nums2:
-                if i==j:
-                    if i not in nums3:
-
-                        nums3.append(i)
-                    break
-        return nums3
-                
+        s1=set(nums1)
+        result=set()
+        for i in nums2:
+            if i in s1:
+                result.add(i)
+        return list(result)
         
