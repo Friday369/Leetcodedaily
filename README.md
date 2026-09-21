@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Friday369/Leetcodedaily/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Friday369/Leetcodedaily/tree/master/0053-maximum-subarray) |
 | [0128-longest-consecutive-sequence](https://github.com/Friday369/Leetcodedaily/tree/master/0128-longest-consecutive-sequence) |
+| [0152-maximum-product-subarray](https://github.com/Friday369/Leetcodedaily/tree/master/0152-maximum-product-subarray) |
 | [0217-contains-duplicate](https://github.com/Friday369/Leetcodedaily/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Friday369/Leetcodedaily/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Friday369/Leetcodedaily/tree/master/0303-range-sum-query-immutable) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Friday369/Leetcodedaily/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/Friday369/Leetcodedaily/tree/master/0010-regular-expression-matching) |
 | [0053-maximum-subarray](https://github.com/Friday369/Leetcodedaily/tree/master/0053-maximum-subarray) |
+| [0152-maximum-product-subarray](https://github.com/Friday369/Leetcodedaily/tree/master/0152-maximum-product-subarray) |
 ## Manacher
 |  |
 | ------- |
