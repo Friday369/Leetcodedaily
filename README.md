@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/Friday369/Leetcodedaily/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Friday369/Leetcodedaily/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Friday369/Leetcodedaily/tree/master/0724-find-pivot-index) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Friday369/Leetcodedaily/tree/master/0918-maximum-sum-circular-subarray) |
 ## Binary Search
 |  |
 | ------- |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Friday369/Leetcodedaily/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Friday369/Leetcodedaily/tree/master/0053-maximum-subarray) |
 | [0347-top-k-frequent-elements](https://github.com/Friday369/Leetcodedaily/tree/master/0347-top-k-frequent-elements) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Friday369/Leetcodedaily/tree/master/0918-maximum-sum-circular-subarray) |
 ## Two Pointers
 |  |
 | ------- |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/Friday369/Leetcodedaily/tree/master/0010-regular-expression-matching) |
 | [0053-maximum-subarray](https://github.com/Friday369/Leetcodedaily/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/Friday369/Leetcodedaily/tree/master/0152-maximum-product-subarray) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Friday369/Leetcodedaily/tree/master/0918-maximum-sum-circular-subarray) |
 ## Manacher
 |  |
 | ------- |
@@ -153,4 +156,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/Friday369/Leetcodedaily/tree/master/0523-continuous-subarray-sum) |
+## Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/Friday369/Leetcodedaily/tree/master/0918-maximum-sum-circular-subarray) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/Friday369/Leetcodedaily/tree/master/0918-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
