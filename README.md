@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Friday369/Leetcodedaily/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Friday369/Leetcodedaily/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Friday369/Leetcodedaily/tree/master/0013-roman-to-integer) |
+| [0189-rotate-array](https://github.com/Friday369/Leetcodedaily/tree/master/0189-rotate-array) |
 | [0523-continuous-subarray-sum](https://github.com/Friday369/Leetcodedaily/tree/master/0523-continuous-subarray-sum) |
 ## Recursion
 |  |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Friday369/Leetcodedaily/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Friday369/Leetcodedaily/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/Friday369/Leetcodedaily/tree/master/0152-maximum-product-subarray) |
+| [0189-rotate-array](https://github.com/Friday369/Leetcodedaily/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Friday369/Leetcodedaily/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Friday369/Leetcodedaily/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Friday369/Leetcodedaily/tree/master/0303-range-sum-query-immutable) |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Friday369/Leetcodedaily/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Friday369/Leetcodedaily/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Friday369/Leetcodedaily/tree/master/0015-3sum) |
+| [0189-rotate-array](https://github.com/Friday369/Leetcodedaily/tree/master/0189-rotate-array) |
 | [0349-intersection-of-two-arrays](https://github.com/Friday369/Leetcodedaily/tree/master/0349-intersection-of-two-arrays) |
 ## Dynamic Programming
 |  |
