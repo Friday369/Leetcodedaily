@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Friday369/Leetcodedaily/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Friday369/Leetcodedaily/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Friday369/Leetcodedaily/tree/master/0349-intersection-of-two-arrays) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Friday369/Leetcodedaily/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0523-continuous-subarray-sum](https://github.com/Friday369/Leetcodedaily/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Friday369/Leetcodedaily/tree/master/0560-subarray-sum-equals-k) |
 ## String
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/Friday369/Leetcodedaily/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/Friday369/Leetcodedaily/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Friday369/Leetcodedaily/tree/master/0349-intersection-of-two-arrays) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Friday369/Leetcodedaily/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0523-continuous-subarray-sum](https://github.com/Friday369/Leetcodedaily/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Friday369/Leetcodedaily/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Friday369/Leetcodedaily/tree/master/0724-find-pivot-index) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Friday369/Leetcodedaily/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Friday369/Leetcodedaily/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Friday369/Leetcodedaily/tree/master/0349-intersection-of-two-arrays) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Friday369/Leetcodedaily/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
