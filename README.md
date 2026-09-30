@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Friday369/Leetcodedaily/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Friday369/Leetcodedaily/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/Friday369/Leetcodedaily/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/Friday369/Leetcodedaily/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Friday369/Leetcodedaily/tree/master/0242-valid-anagram) |
 ## Sliding Window
 |  |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Friday369/Leetcodedaily/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Friday369/Leetcodedaily/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/Friday369/Leetcodedaily/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/Friday369/Leetcodedaily/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Friday369/Leetcodedaily/tree/master/0189-rotate-array) |
 | [0349-intersection-of-two-arrays](https://github.com/Friday369/Leetcodedaily/tree/master/0349-intersection-of-two-arrays) |
 ## Dynamic Programming
