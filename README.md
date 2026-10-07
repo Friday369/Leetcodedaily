@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/Friday369/Leetcodedaily/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Friday369/Leetcodedaily/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Friday369/Leetcodedaily/tree/master/0724-find-pivot-index) |
+| [0881-boats-to-save-people](https://github.com/Friday369/Leetcodedaily/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/Friday369/Leetcodedaily/tree/master/0905-sort-array-by-parity) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Friday369/Leetcodedaily/tree/master/0918-maximum-sum-circular-subarray) |
 | [0977-squares-of-a-sorted-array](https://github.com/Friday369/Leetcodedaily/tree/master/0977-squares-of-a-sorted-array) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Friday369/Leetcodedaily/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Friday369/Leetcodedaily/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Friday369/Leetcodedaily/tree/master/0349-intersection-of-two-arrays) |
+| [0881-boats-to-save-people](https://github.com/Friday369/Leetcodedaily/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/Friday369/Leetcodedaily/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Friday369/Leetcodedaily/tree/master/0977-squares-of-a-sorted-array) |
 ## Dynamic Programming
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Friday369/Leetcodedaily/tree/master/0011-container-with-most-water) |
+| [0881-boats-to-save-people](https://github.com/Friday369/Leetcodedaily/tree/master/0881-boats-to-save-people) |
 ## Trie
 |  |
 | ------- |
@@ -167,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Friday369/Leetcodedaily/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Friday369/Leetcodedaily/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Friday369/Leetcodedaily/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0881-boats-to-save-people](https://github.com/Friday369/Leetcodedaily/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/Friday369/Leetcodedaily/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Friday369/Leetcodedaily/tree/master/0977-squares-of-a-sorted-array) |
 ## Heap (Priority Queue)
@@ -226,4 +230,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Friday369/Leetcodedaily/tree/master/0075-sort-colors) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/Friday369/Leetcodedaily/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
