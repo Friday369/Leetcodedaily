@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Friday369/Leetcodedaily/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Friday369/Leetcodedaily/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Friday369/Leetcodedaily/tree/master/0349-intersection-of-two-arrays) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Friday369/Leetcodedaily/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Friday369/Leetcodedaily/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0523-continuous-subarray-sum](https://github.com/Friday369/Leetcodedaily/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Friday369/Leetcodedaily/tree/master/0560-subarray-sum-equals-k) |
@@ -54,11 +55,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Friday369/Leetcodedaily/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Friday369/Leetcodedaily/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Friday369/Leetcodedaily/tree/master/0242-valid-anagram) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Friday369/Leetcodedaily/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Friday369/Leetcodedaily/tree/master/0567-permutation-in-string) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Friday369/Leetcodedaily/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Friday369/Leetcodedaily/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Friday369/Leetcodedaily/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Friday369/Leetcodedaily/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/Friday369/Leetcodedaily/tree/master/0713-subarray-product-less-than-k) |
